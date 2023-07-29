@@ -46,6 +46,12 @@
    <br/>
  
   
+#### :pencil2: Study log
+
+  <br/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiwonKim08&show_icons=true&theme=aura)
 
 
 
