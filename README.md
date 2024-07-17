@@ -33,7 +33,6 @@
      <li> [2024.07-ing] AUSG 18기 Member
      </li>
      <li> [2024.07-ing] OpenStack팀 멘티
-       
      </li>
    
  </ul>
