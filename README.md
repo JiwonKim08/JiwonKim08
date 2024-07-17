@@ -30,6 +30,11 @@
      <li> [2023.09-ing] 캡스톤졸업프로젝트 A.A 'AI를 이용한 개인 맞춤형 헤어 및 디자이너 추천 서비스 MORAK'
      </li>
      <li> [2023.09-ing] AWS Cloud club Ewha 1기 & 2기 Member </li>
+     <li> [2024.07-ing] AUSG 18기 Member
+     </li>
+     <li> [2024.07-ing] OpenStack팀 멘티
+       
+     </li>
    
  </ul>
 <br/>
