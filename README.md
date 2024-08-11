@@ -28,7 +28,7 @@
     <ul style="list-style-type: none; padding: 0;">
         EFUB, Ewha Womans University Development Club 'Custom Cake Brokerage Platform CAKER' <small>[2022.03-2022.08]</small><br/>
         CEOS, Sinchon Union Startup Association 'Reference Service for SNS Copywriters HOOKING' <small>[2023.05-2024.02]</small><br/>
-        EWHA University, Capstone Graduation Project 'AI-Powered Personalized Hair and Designer Recommendation Service MORAK' <small>[2023.09-ing]</small><br/>
+        Ewha Womans University, Capstone Graduation Project 'AI-Powered Personalized Hair and Designer Recommendation Service MORAK' <small>[2023.09-ing]</small><br/>
         AWS Cloud Club Ewha, 1st & 2nd Member <small>[2023.09-ing]</small><br/>
         AUSG, 8th Member <small>[2024.07-ing]</small><br/>
         AWS Hackertone Project, Email Bulk Sending Architecture Design <small>[2024.07-2024.08]</small><br/>
